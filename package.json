@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "practica1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmarMerlos/helloworld.git"
+  },
+  "author": "OsmarMerlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsmarMerlos/helloworld/issues"
+  },
+  "homepage": "https://github.com/OsmarMerlos/helloworld#readme"
+}
